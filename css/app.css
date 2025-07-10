@@ -101,3 +101,30 @@ a, .btn-link {
 code {
     color: #c02d76;
 }
+
+/* Sidebar hover effects */
+.sidebar .nav-item {
+    display: flex;
+    align-items: center;
+    padding: 14px 24px;
+    cursor: pointer;
+    border-left: 4px solid transparent;
+    transition: background 0.2s, color 0.2s, border-color 0.2s, transform 0.15s;
+}
+
+.sidebar .nav-item:hover {
+    background: #6f37ae;
+    color: #fff;
+    border-left: 4px solid #fbbf24;
+    transform: scale(1.04);
+}
+
+.sidebar .nav-item i {
+    margin-right: 12px;
+    font-size: 1.2em;
+    transition: color 0.2s;
+}
+
+.sidebar .nav-item:hover i {
+    color: #fbbf24;
+}

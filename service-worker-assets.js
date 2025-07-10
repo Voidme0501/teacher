@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "+w+fh7L2",
+  "version": "6wThgiGQ",
   "assets": [
     {
       "hash": "sha256-F42dG8k+voI67pGEUNhV/AMKCYrZQSd5pkZbqxAE/fE=",
@@ -1778,11 +1778,11 @@ self.assetsManifest = {
       "url": "_framework/System.wasm"
     },
     {
-      "hash": "sha256-vJfQCnmWNpQXL5b2ZX0gf4C3Dcz1yvZNdXq9WeT21WE=",
+      "hash": "sha256-5V9bC2ROCTwMcn9HTWWa1ZIFaLTYnJqkckZzsi9VwCk=",
       "url": "_framework/TeacherSide.wasm"
     },
     {
-      "hash": "sha256-UWr0w8H0+30JbAwY1kB+tVtKWuT4Q8jpGnHizuEP7E4=",
+      "hash": "sha256-FltbequhLzuisGRrgecrDn5y0mM1CCZ0qOai0aEEHuM=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -1826,7 +1826,7 @@ self.assetsManifest = {
       "url": "appsettings.json"
     },
     {
-      "hash": "sha256-ygEu5ClFT5IEsuIEKulLCLbQqrA2BvmbjNuK40pUgCo=",
+      "hash": "sha256-Vn7tY37Pog29WS8vrSQO/q8i4n73fRqEtreNh9dp40Y=",
       "url": "css/app.css"
     },
     {

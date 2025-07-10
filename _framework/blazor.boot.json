@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "TeacherSide",
   "resources": {
-    "hash": "sha256-bjLCpFWkDtg9yiuthNRKRPNBmI8pmyIIKiGksuek2bM=",
+    "hash": "sha256-uBYkfP90LuvTbghKw/QO2GajDOTD0ITCNC8/yDZrc1s=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-hHQubKIpdQDiMMCio9cQgnfPwIM+8WztrDDiIuqDWC0="
     },
@@ -80,7 +80,7 @@
       "System.wasm": "sha256-Ptp0SoFJ9d0L4Ggtn3zglr8nqyoyg6Y9/3zD9yoNP9E=",
       "System.Xml.Linq.wasm": "sha256-kZJO/BQhANYZ4psstEnj8MTlj1aTXnXh0OYp2XqcrDI=",
       "System.Xml.XDocument.wasm": "sha256-Tb6OcsI2KlR0OQ8YD+w5QGmOI6uOui4RFf5rlJIL3Og=",
-      "TeacherSide.wasm": "sha256-6izeqHn2TNFTvJb9Ebq9A9awNI31ccyu6x79fAz0zhI="
+      "TeacherSide.wasm": "sha256-XRJOwOuUD56+YbcL49PnsVqmrzfpSDahwf2NgXFxXtM="
     },
     "libraryInitializers": {
       "_content/AntDesign/AntDesign.d05dnpfa5s.lib.module.js": "sha256-Y7oJ7/rOncGnhfBrDAPc045cW9bF4cp1INbpZClDsxM="
